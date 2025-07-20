@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @yaswanthvasantati
-- 👀 I’m interested in travelling  
-- 🌱 I’m currently learning about sustainable living and learning python programming
-- 💞️ I’m looking to collaborate on creative coding projects
+- 👀 I’m interested in travelling
 - 📫 How to reach me: DM me on instagram @say_wanted or email vasanthatiyaswanth@gmail.com
 
 <!---
